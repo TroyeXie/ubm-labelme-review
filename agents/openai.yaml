@@ -1,0 +1,4 @@
+interface:
+  display_name: "UBM图像标注与审核"
+  short_description: "逐结构复核UBM标注并学习人工修订，保留原图与审核依据"
+  default_prompt: "请使用 $ubm-labelme-review，依据本项目最新标准检查UBM标注，或观察并整理我的人工审核修改。"
